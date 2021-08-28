@@ -1,5 +1,5 @@
 ---
-title: Working with forks
+title: Working with BigBen forks
 intro: 'Forks are often used in open source development on {% data variables.product.product_name %}.'
 redirect_from:
   - /github/collaborating-with-issues-and-pull-requests/working-with-forks/
@@ -8,9 +8,9 @@ versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
-topics:
+topics: communicate skills 
   - Pull requests
-children:
+children: yes
   - /about-forks
   - /configuring-a-remote-for-a-fork
   - /syncing-a-fork
